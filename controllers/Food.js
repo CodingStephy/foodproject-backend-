@@ -13,27 +13,27 @@ const foodSeed = [
  },   
  {
     name: "Stir Fried Prawns with Longjing Tea",
-    img:"http://discover.china.org.cn/wp-content/uploads/2016/08/%E6%B5%99%E6%B1%9F%E5%9C%A8%E7%BA%BF-%E9%BE%99%E4%BA%95%E8%99%BE%E4%BB%81-1200x673.jpg",
+    img:"https://d27pcll2dx97vv.cloudfront.net/info/wp-content/uploads/2015/12/Stir-Fried-Prawns-with-Longjing-1pc.jpg",
     taste:"salty and savory",
 }, 
 {
     name: "Dongpo Pork",
-    img:"http://discover.china.org.cn/wp-content/uploads/2016/08/%E6%B5%99%E6%B1%9F%E5%9C%A8%E7%BA%BF-%E4%B8%9C%E5%9D%A1%E8%82%89-1200x661.jpg",
+    img:"https://delishar.com/wp-content/uploads/2016/02/Dong-Po-Rou.jpg",
     taste:"salty and sweet",
 }, 
 {
     name: "Pian Er Chuan Noodles",
-    img:"http://discover.china.org.cn/wp-content/uploads/2016/08/%E7%89%87%E5%84%BF%E5%B7%9D.jpg",
+    img:"https://www.tripchinaguide.com/public/upload/photo/top-10-chinese-noodles/img_21_d20130812152337.jpg",
     taste:"salty",
 }, 
 {
     name: "Cat Ear Noodles",
-    img:"http://discover.china.org.cn/wp-content/uploads/2016/08/zjol.com_.cn-%E7%8C%AB%E8%80%B3%E6%9C%B5.jpg",
+    img:"https://pbs.twimg.com/media/DPw1dNiU8AAF8_k.jpg",
     taste:"salty",
 }, 
 {
     name: "Shallot Stuffed Pancake",
-    img:"http://discover.china.org.cn/wp-content/uploads/2016/08/%E8%91%B1%E5%8C%85%E6%A1%A7.jpg",
+    img:"http://4.bp.blogspot.com/-vcXKP98ERT0/U-cVmyNCfOI/AAAAAAAAABU/3D6FUdpqvSs/s1600/6tjzj.jpg",
     taste:"sweet and salty",
 }, 
 {
