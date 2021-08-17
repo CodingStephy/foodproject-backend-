@@ -38,7 +38,7 @@ const foodSeed = [
 }, 
 {
     name: "Steamed Lotus Root Stuffed with Sweet Sticky Rice",
-    img:"http://discover.china.org.cn/wp-content/uploads/2016/08/%E8%91%B1%E5%8C%85%E6%A1%A7.jpg",
+    img:"https://www.yumchinesefood.com/images/upload/2019/7/30/a9ee4f5f-e282-42cd-92ac-7f6d845254e7.jpg",
     taste:"sweet and salty",
 }, 
 {
